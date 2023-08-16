@@ -1,0 +1,15 @@
+github.com/Henry-Sarabia/apicalypse v1.0.2 h1:rM2SrWlMgNwyuzP/Ty8dvc5iYb1pWVGa+kF0RvSPMoE=
+github.com/Henry-Sarabia/apicalypse v1.0.2/go.mod h1:elNsoPyACTUScwfjuZc1DLN68zFbeyDo2XlJkF1omts=
+github.com/Henry-Sarabia/blank v3.0.0+incompatible h1:3JfHWx7YVr1bA+9aK1J2w9TrFpwAHfPibHOq4qwicSc=
+github.com/Henry-Sarabia/blank v3.0.0+incompatible/go.mod h1:EKLnM7Lq0E08WmivZuJoo099i07THd4ISgOBs3wOKTw=
+github.com/Henry-Sarabia/igdb v1.0.3/go.mod h1:LTutVBVku4QM89VFgZ+txxlvYztFEsh0VqMh0gpeOWM=
+github.com/Henry-Sarabia/igdb/v2 v2.0.0-alpha.4 h1:ZsyBtHcuEBVyrsP2oYIHELEAt/W18kp42B4BCsFL/IQ=
+github.com/Henry-Sarabia/igdb/v2 v2.0.0-alpha.4/go.mod h1:ooRt7UmyP40FAZncIkpM6fJ0LBUD3aMNRJQfLxGCCG8=
+github.com/Henry-Sarabia/sliceconv v1.0.2 h1:1zH/sJmocRZz1g1FrmU06GsbskWLWglj6IHhFB9TdBA=
+github.com/Henry-Sarabia/sliceconv v1.0.2/go.mod h1:FNvuZcThTpCgAjQQZjPSx7PkS/DYRT6jTV3oPQGP2lU=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
+gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=
